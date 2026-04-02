@@ -20,7 +20,7 @@ Praticar a criação de formulários estilizados usando apenas HTML e CSS, aplic
 
 \## 🌐 Visualizar projeto
 
-\[Ver demo online](https://liadaine.github.io/formulario-login/)
+https://liadaine.github.io/formulario-login/
 
 
 
